@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 35571ff6b5e754c4eabfd175ef04312a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kingPrefab: {fileID: 7548881859820872131, guid: f003a5edea246664da13c1cdb4d2ff2a, type: 3}
+  - pigPrefab: {fileID: 3505710882068001144, guid: 25ffaf322ae7af74dbcc24d98a3d7b7d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
